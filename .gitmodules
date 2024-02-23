@@ -1,0 +1,6 @@
+[submodule "fine_tuning"]
+	path = fine_tuning
+	url = git@github.com:jakucermak/FineTuning.git
+[submodule "scraper"]
+	path = scraper
+	url = git@github.com:jakucermak/refsite-Scraper.git
